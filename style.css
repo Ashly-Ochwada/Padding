@@ -5,6 +5,7 @@
     height: 350px;
     margin-left: 35%;
     margin-top: 10%;
+    border-radius: 25px;
 
 }
 .padding2{
@@ -14,6 +15,7 @@
     height: 200px;
     margin-top: 20%;
     margin-left: 21%;
+    border-radius: 30px;
 
 }
 .padding3{
@@ -25,4 +27,5 @@
     padding-top: 20%;
     margin-left: 23%;
     margin-top: 25%;
+    border-radius: 25px;
 }
