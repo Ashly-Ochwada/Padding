@@ -1,28 +1,28 @@
 .padding1{
-    background-color: rgb(233, 211, 211);
-    border: 3px solid rgb(238, 130, 238);
-    width: 350px;
-    height: 350px;
+    background-color: rgb(251, 251, 11);
+    border: 3px solid rgb(94, 8, 94);
+    width: 600px;
+    height: 600px;
     margin-left: 35%;
     margin-top: 10%;
     border-radius: 25px;
 
 }
 .padding2{
-    background-color: aqua;
-    border: 3px solid yellow;
-    width: 200px;
-    height: 200px;
+    background-color: rgb(46, 42, 42);
+    border: 3px solid rgb(12, 12, 190);
+    width: 400px;
+    height: 400px;
     margin-top: 20%;
     margin-left: 21%;
     border-radius: 30px;
 
 }
 .padding3{
-    background-color: blue;
-    border: 3px solid brown;
-    width: 100px;
-    height: 50px;
+    background-color: rgb(25, 199, 215);
+    border: 3px solid rgb(85, 22, 22);
+    width: 200px;
+    height: 150px;
     text-align: center;
     padding-top: 20%;
     margin-left: 23%;
